@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @miguezaga
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in Web Development and Computer Science
+- 👔 www.linkedin.com/in/miguelzaga
