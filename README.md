@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @miguezaga
-- 👀 I’m interested in Web Development and Computer Science
+- 👀 I’m interested in Web Development and Computer Science [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 - 👔 www.linkedin.com/in/miguezaga
