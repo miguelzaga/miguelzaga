@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @miguezaga
-- 👀 I’m interested in Web Development and Computer Science [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+- 👋 Hi, I’m Miguel Zapata
+- 🤓 I am learning Web Development with (Protalento)[https://protalento.org/] and (Digital House)[https://www.digitalhouse.com/]
+- 👀 I’m an economist interested in Computer Science [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 - 👔 www.linkedin.com/in/miguezaga
