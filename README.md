@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Miguel Zapata
+- 👀 I’m an economist interested in Computer Science 
 - 🤓 I am learning Web Development with [Protalento](https://protalento.org/) and [Digital House](https://www.digitalhouse.com/)
-- 👀 I’m an economist interested in Computer Science [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+- 👓 And doing the CS courses from OSSU [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science) You can check my progress in this [board](https://trello.com/b/N39O9Ne2/computer-science)
 - 👔 www.linkedin.com/in/miguelzaga
