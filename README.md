@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Miguel Zapata
 - 👀 I’m an economist interested in Computer Science 
-- 🤓 I am learning Web Development with [Protalento](https://protalento.org/) and [Digital House](https://www.digitalhouse.com/)
-- 👔 www.linkedin.com/in/miguelzaga
