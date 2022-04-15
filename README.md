@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Miguel Zapata
-- 👀 I’m an economist interested in Computer Science 
+- 👋 Hi, I’m Miguel
+- 👀 I’m a Web Developer with a background in economics
