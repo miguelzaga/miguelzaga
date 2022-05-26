@@ -16,7 +16,7 @@ I am a Frontend Developer who creates websites with semantic HTML, CSS and JavaS
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=miguelzaga&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=miguelzaga&count_private=true&show_icons=true&include_all_commits=true&hide=prs,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelzaga&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=miguelzaga)
