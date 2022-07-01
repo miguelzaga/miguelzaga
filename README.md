@@ -2,9 +2,6 @@
 
 I am a Frontend Developer who creates websites with semantic HTML, CSS and JavaScript. I love using Sass with CSS flexbox and grid. On my free time I like to grow my coding skills by learning new techniques and using them on personal projects.
 
-[![Personal Website](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://miguezaga.online/)
-[![Linkedin Badge](https://img.shields.io/badge/-miguelzaga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/miguelzaga/)
-
 ## Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
