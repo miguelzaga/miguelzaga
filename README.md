@@ -1,6 +1,6 @@
 # Hi, I’m Miguel.
 
-I am a Frontend Developer who creates websites with semantic HTML, CSS and JavaScript. I love using Sass with CSS flexbox and grid. On my free time I like to grow my coding skills by learning new techniques and using them on personal projects.
+I am a Frontend Developer.
 
 ## Technologies
 
