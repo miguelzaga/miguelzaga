@@ -1,3 +1,3 @@
 # Hi, I’m Miguel.
 
-Software Engineer & Economist.
+I am a Web Developer
