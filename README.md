@@ -1,5 +1,5 @@
 # 💫 About Me:
-😁  Hi, my name is Miguel.<br>✨ Making the Web Beautiful.<br>💻 I’m a front-end developer building responsive solutions for modern web challenges.<br>📈 Currently, I work in marketing at Teleperformance.
+😁  Hi, my name is Miguel.<br>✨ Making the Web Beautiful.<br>💻 I’m a front-end developer building responsive solutions for modern web challenges.
 
 
 ## 🌐 Socials:
